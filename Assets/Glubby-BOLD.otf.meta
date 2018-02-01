@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8dc79ac7865565c4586fb46e8c122a48
+timeCreated: 1516441598
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Glubby
+  fontNames:
+  - Glubby
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

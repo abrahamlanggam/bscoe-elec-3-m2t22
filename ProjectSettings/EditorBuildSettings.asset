@@ -6,5 +6,14 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Terminal hacker.unity
-    guid: 669313a4165da024fb4a2cdc7bd67944
+    path: Assets/Scenes/level1.unity
+    guid: 81c574918f97e5d49b217bb9524585a3
+  - enabled: 1
+    path: Assets/Scenes/level2.unity
+    guid: 5a29332d9dc90894487808dbc1e75f8b
+  - enabled: 1
+    path: Assets/Scenes/level3.unity
+    guid: 2691977260c1f6748bfdc7e69f3c112e
+  - enabled: 1
+    path: Assets/Scenes/endscene.unity
+    guid: f35be75db1283e04b921ac0ad34737d1
